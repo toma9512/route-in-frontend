@@ -4,7 +4,7 @@
 
 Kakao Map 기반 러닝코스 등록·공유, 실시간 채팅, AI 코스 추천 기능을 제공하는 운동 특화 모바일 웹 서비스입니다.
 
-🔗 [Backend 레포](https://github.com/Koreait-Triple-Stack/route_in_backend)　|　🔗 [배포 주소](https://routein.store)
+🔗 [Backend 레포](https://github.com/toma9512/route-in-backend)　|　🔗 [배포 주소](https://routein.store)
 
 ---
 
